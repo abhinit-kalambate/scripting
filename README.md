@@ -1,2 +1,2 @@
 # scripting
-Projects regardinbg linux bash scripting.
+Projects regarding linux bash shell scripting.
